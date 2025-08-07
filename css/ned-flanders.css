@@ -101,13 +101,7 @@
     width: 9px;
     height: 15px;
     -webkit-transform: rotate(9deg);
-    -ms-transform: rotate(9deg);
-    transform: rotate(9deg);
-}
-
-#ned-flanders .head .hair-line4
-{
-    top: 12px;
+    -ms-transform: rotate(9deg);2px;
     left: 59px;
     width: 9px;
     height: 17px;
